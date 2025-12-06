@@ -42,6 +42,5 @@ This repository contains a data-driven analysis to determine the best neighborho
 - `ras425_toxic_air.ipynb` - Riya's individual analysis
 - `Akansh_Monthly_Crime.ipynb` - Akansh's individual analysis
 - `cms510-Finall-Project (1).ipynb` - Connor's individual analysis
-- `toxic_air_releases.csv` - Air quality dataset
 - `fpsnippets.py` - Helper functions for ZIP code to neighborhood conversion
 - `ZIP_TRACT_032020.csv` - ZIP code to census tract mapping data
